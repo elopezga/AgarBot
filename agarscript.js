@@ -1,4 +1,11 @@
-(function(window) {
+(function(){
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.src = "https://github.com/elopezga/AgarBot/edit/master/agarscript.js";
+    document.body.appendChild(s);
+})();
+
+(function() {
     window.alert("http://www.w3schools.com");
 })();
 
