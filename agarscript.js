@@ -6,7 +6,7 @@
 })();
 
 (function() {
-    window.alert("http://www.w3schools.com");
+    alert("http://www.w3schools.com");
 })();
 
 
