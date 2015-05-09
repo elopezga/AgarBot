@@ -1,5 +1,5 @@
 
-    window.open("http://www.w3schools.com");
+    javascript: window.open("http://www.w3schools.com");
 
 
 /*
