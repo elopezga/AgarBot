@@ -1,5 +1,5 @@
-javascript: (function() {
-    window.open('Hi');
+javascript:(function() {
+    window.open("http://www.google.com");
 })();
 
 
