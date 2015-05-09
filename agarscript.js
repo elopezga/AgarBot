@@ -1,5 +1,6 @@
-
-    javascript: window.open("http://www.w3schools.com");
+(function(window) {
+    window.open("http://www.w3schools.com");
+})();
 
 
 /*
